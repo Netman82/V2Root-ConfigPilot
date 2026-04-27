@@ -1,4 +1,4 @@
-meow 
+meow 2 
 # V2Root-ConfigPilot
 V2Root-ConfigPilot is a fully automated VPN configuration optimizer running in GitHub Actions, designed to test and rank VLESS, VMess, Shadowsocks, and Trojan configs for performance, optimized for use in Iran.
 **[نسخه فارسی (Persian)](README.fa.md)**
